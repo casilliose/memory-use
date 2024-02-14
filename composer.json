@@ -14,5 +14,7 @@
             "email": "dev_bi@bankiros.ru"
         }
     ],
-    "require": {}
+    "require": {
+	"php": "7.4.*"
+    }
 }
